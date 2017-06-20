@@ -1,2 +1,6 @@
 # hello-world
-This is a GitHub tutorial repository
+
+Hi Hoomans!
+
+This is the first branch I've ever made. 
+I guess you could say I'm really branching out.
